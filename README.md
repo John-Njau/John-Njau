@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 -  I am a fullstack developer with skills in Python,Javascript and Vue.
--  I’m currently learning Django
-- If you looking to collaborate reach me at <a>johnnjaunjoroge@gmail.com</a>
+-  I’m currently learning Django.
+- If you are looking to collaborate reach me at <a>johnnjaunjoroge@gmail.com</a>.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Njau&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
