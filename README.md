@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--  I am a fullstack developer with skills in Python,Javascript and Vue.
--  I’m currently learning Django.
+-  I am a fullstack developer with skills in Python(Flask,Django),Javascript(Vue) and Angular.
+-  I’m currently learning React.
 - If you are looking to collaborate reach me at <a>johnnjaunjoroge@gmail.com</a>.
 
 
