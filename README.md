@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--  I am a fullstack developer with skills in Python(Flask,Django),Javascript(Vue) and Angular.
+-  I am a Full-Stack Software Engineer, passionate about Web Development and Software Development.
+- My forte is Python,Flask,Django,Javascript,Vue and Angular.
 -  I’m currently learning React.
+
+- I'm also an Economist and Statistician.
+
 - If you are looking to collaborate reach me at <a>johnnjaunjoroge@gmail.com</a>.
 
 
