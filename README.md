@@ -21,23 +21,20 @@ Here are some ideas to get you started:
 
 - I'm also an Economist and Statistician.
 
+- If you have a project or looking to collaborate reach me at <a>johnnjaunjoroge@gmail.com</a>.
+
 
 <div style="display: flex; flex-wrap:wrap; ">
-  <div style="margin:auto">
+  <div style="margin:auto; width:50%">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=john-njau&theme=radical" />
   </div>
+ <br>
   <div style="margin:auto">
         <img src="https://github-readme-stats.vercel.app/api?username=John-Njau&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
    </div>
 </div>
 <br>
-<br>
-
 * [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Njau)](https://github.com/anuraghazra/github-readme-stats) 
-  
-     
+<br>
 * [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Johnnypaps)](https://github.com/anuraghazra/github-readme-stats)
-     
-        
-  - If you are looking to collaborate reach me at <a>johnnjaunjoroge@gmail.com</a>.
 
