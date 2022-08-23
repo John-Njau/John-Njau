@@ -23,13 +23,14 @@ Here are some ideas to get you started:
 
 
 ## GitHub Stats
-<div style="display: flex;">
+<div style="display: flex; flex-wrap:wrap">
     <div style="width: 50%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=john-njau&theme=gotham" />
-    </div>
-    <div style="width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=john-njau&theme=gotham&custom_title=john-njau%20github%20stats" />
-    </div>
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=john-njau&theme=radical" />
+        </div>
+        <div >
+            <img src="https://github-readme-stats.vercel.app/api?username=John-Njau&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
+        </div>
+    
 </div>
 <br>
 <br>
