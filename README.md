@@ -22,16 +22,14 @@ Here are some ideas to get you started:
 - I'm also an Economist and Statistician.
 
 
-    <div style="display: flex; flex-wrap:wrap; ">
-            <div style="margin:auto">
-                <img src="https://github-readme-streak-stats.herokuapp.com?user=john-njau&theme=radical" />
-            </div>
-            <div style="margin:auto">
-                <img
-                    src="https://github-readme-stats.vercel.app/api?username=John-Njau&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
-            </div>
-
-        </div>
+<div style="display: flex; flex-wrap:wrap; ">
+  <div style="margin:auto">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=john-njau&theme=radical" />
+  </div>
+  <div style="margin:auto">
+        <img src="https://github-readme-stats.vercel.app/api?username=John-Njau&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
+   </div>
+</div>
 <br>
 <br>
 
@@ -41,8 +39,5 @@ Here are some ideas to get you started:
 * [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Johnnypaps)](https://github.com/anuraghazra/github-readme-stats)
      
         
-
-
-  
   - If you are looking to collaborate reach me at <a>johnnjaunjoroge@gmail.com</a>.
 
