@@ -21,7 +21,18 @@ Here are some ideas to get you started:
 
 - I'm also an Economist and Statistician.
 
-- If you are looking to collaborate reach me at <a>johnnjaunjoroge@gmail.com</a>.
+
+## GitHub Stats
+<div style="display: flex;">
+    <div style="width: 50%;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=john-njau&theme=gotham" />
+    </div>
+    <div style="width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=john-njau&theme=gotham&custom_title=john-njau%20github%20stats" />
+    </div>
+</div>
+<br>
+<br>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Njau&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,3 +40,6 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Njau)](https://github.com/anuraghazra/github-readme-stats) 
   
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Johnnypaps)](https://github.com/anuraghazra/github-readme-stats)
+  
+  - If you are looking to collaborate reach me at <a>johnnjaunjoroge@gmail.com</a>.
+
