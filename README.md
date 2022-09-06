@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 -  I am a Full-Stack Software Engineer, passionate about Web Development and Software Development.
-- My forte is Python,Flask,Django,Javascript,Vue and Angular.
+- My forte is Python,Django,Javascript and Vue .
 -  I’m currently learning React.
 
 - I'm also an Economist and Statistician.
