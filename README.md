@@ -31,11 +31,14 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/john-njau/count.svg" />
 </p>
  <br>
+  <div align="left">
   <span style="margin:auto">
         <img src="https://github-readme-stats.vercel.app/api?username=John-Njau&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
    </span>
+  </div>
 </div>
-
+<div align="right">
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Njau)](https://github.com/anuraghazra/github-readme-stats) 
+  </div>
 
 
