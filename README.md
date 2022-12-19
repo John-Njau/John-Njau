@@ -14,14 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/john-njau/count.svg" />
-</p>
 
 -  I am a Full-Stack Software Engineer, passionate about Web Development and Software Development.
-- My forte is Python,Django,Javascript and Vue .
-- I have expansively worked with PostgreSQL, MySQL and MongoDB.
 
 - I'm also an Economist and Statistician.
 
@@ -31,7 +25,11 @@ Here are some ideas to get you started:
 <div style="display: flex; flex-wrap:wrap; ">
   <span style="margin:auto; width:50%">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=john-njau&theme=radical" />
-  </span> 
+  </span>
+  <p align="center"> 
+  Visitors<br>
+  <img src="https://profile-counter.glitch.me/john-njau/count.svg" />
+</p>
  <br>
   <span style="margin:auto">
         <img src="https://github-readme-stats.vercel.app/api?username=John-Njau&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
