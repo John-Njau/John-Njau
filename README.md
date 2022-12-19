@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, this is **John Njau**.
 
 <!--
 **John-Njau/John-Njau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,30 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--  I am a Full-Stack Software Engineer, passionate about Web Development and Software Development.
+- A Full-Stack Software Developer, passionate about Web Development and Software Development.
 
-- I'm also an Economist and Statistician.
+- An Economist and Statistician when not writing code.
 
-- If you have a project or looking to collaborate reach me at <a>johnnjaunjoroge@gmail.com</a>.
+- If you have a project or looking to collaborate reach me at <a href=' mailto:johnnjaunjoroge@gmail.com'>johnnjaunjoroge@gmail.com</a>.
 
-
-<div style="display: flex; flex-wrap:wrap; ">
-  <span style="margin:auto; width:50%">
+<main align="center">
+  <div>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=john-njau&theme=radical" />
-  </span>
-  <p align="center"> 
+  </div>
+ <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=John-Njau&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
+   </div>
+
+<div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Njau)](https://github.com/anuraghazra/github-readme-stats)
+
+  </div>
+ <div>
+<p> 
   Visitors<br>
   <img src="https://profile-counter.glitch.me/john-njau/count.svg" />
 </p>
- <br>
-  <div align="left">
-  <span style="margin:auto">
-        <img src="https://github-readme-stats.vercel.app/api?username=John-Njau&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
-   </span>
-  </div>
 </div>
-<div align="right">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Njau)](https://github.com/anuraghazra/github-readme-stats) 
-  </div>
 
 
+  </main>
