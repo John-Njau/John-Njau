@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **John-Njau/John-Njau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/john-njau/count.svg" />
+</p>
 
 -  I am a Full-Stack Software Engineer, passionate about Web Development and Software Development.
 - My forte is Python,Django,Javascript and Vue .
