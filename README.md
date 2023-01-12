@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <main align="center">
   <div>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=john-njau&theme=radical" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=John-Njau&theme=radical" />
   </div>
  <div>
         <img src="https://github-readme-stats.vercel.app/api?username=John-Njau&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
