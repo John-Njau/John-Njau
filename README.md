@@ -26,14 +26,6 @@ Here are some ideas to get you started:
         <img src="https://github-readme-streak-stats.herokuapp.com?user=John-Njau&theme=radical" />
   </div>
  <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=John-Njau&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
-   </div>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-njau)](https://github.com/anuraghazra/github-readme-stats)
-
-<div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Njau)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
  <div>
