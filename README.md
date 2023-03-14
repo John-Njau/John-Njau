@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- A Full-Stack Software Developer, passionate about Web Development and Software Development.
+- A Full-Stack Software Developer, passionate about Web Development and Software Engineering.
 
-- An Economist and Statistician when not writing code.
+- An IT Systems Auditor and Consultant when not writing code.
 
 - If you have a project or looking to collaborate reach me at <a href=' mailto:johnnjaunjoroge@gmail.com'>johnnjaunjoroge@gmail.com</a>.
 
