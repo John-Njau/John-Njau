@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- A Full-Stack Software Developer, passionate about Web Development and Software Engineering.
+- Full-Stack Software Engineer.
 
 - An IT Systems Auditor and Consultant when not writing code.
 
