@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - Full-Stack Software Engineer.
 
-- An IT Systems Auditor and Consultant when not writing code.
+- IT Systems Auditor and Consultant when not writing code.
 
 - If you have a project or looking to collaborate reach me at <a href=' mailto:johnnjaunjoroge@gmail.com'>johnnjaunjoroge@gmail.com</a>.
 
