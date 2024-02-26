@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Full-Stack Software Engineer.
+- Backend Software Engineer.
 
 - IT Systems Auditor and Consultant.
 
