@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 - Backend Software Engineer.
 
+- Cyber Security Engineer.
+
 - IT Systems Auditor and Consultant.
 
 - Have a project or looking to collaborate? Reach me at <a href=' mailto:johnnjaunjoroge@gmail.com'>johnnjaunjoroge@gmail.com</a>.
